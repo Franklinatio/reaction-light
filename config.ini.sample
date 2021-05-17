@@ -1,7 +1,7 @@
 [server]
-token =
-prefix = rl!
-name = Reaction Light
-system_channel =
+token = ODQyODc1MTQ2NzQwOTU3MjM0.YJ7qpg.6V5q8OMsoEcK7ZXcZutXWjDEAj8
+prefix = ;
+name = SCC Reaction Roles
+system_channel = 718148561983766580
 logo = https://cdn.discordapp.com/attachments/671738683623473163/693451064904515645/spell_holy_weaponmastery.jpg
 colour = 0xffff00
